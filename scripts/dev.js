@@ -1,4 +1,3 @@
-// var apiUrl = 'http://localhost:5000';
 var apiUrl = 'http://localhost:5000';
 
 require.config({

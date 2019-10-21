@@ -3,8 +3,7 @@ devDefine(
     function(data) {
       return {
           message : `
-==============================================================================================================================
-
+= = = = = = = = = = = = =
 Question 7:
 
 'Food glorious food'
@@ -16,9 +15,9 @@ This particular one is my absolute favourite. I've seen it countless times in di
 
 Set in New York City, the storyline is loosely based on Giacomo Puccini's La Bohème
 
-What's its name?
+What is its name?
 
-==============================================================================================================================================
+= = = = = = = = = = = = =
 `
       };
     }
