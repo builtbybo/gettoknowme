@@ -1,9 +1,8 @@
 # builtbybo - Playground Project
 
-# dev-challenge-example
-# dev-challenge-example
+# Get To Know Me Challenge
 
-An console based challenge inspired by video games from the 80s and using Transferwises
+An console based challenge inspired by video games from the 80s and using Transferwise's
  [dev-challenge-server](https://github.com/transferwise/dev-challenge-server) module. 
 ## Get started
 Just clone the repo locally, go to the folder and run 
