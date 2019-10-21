@@ -1,4 +1,4 @@
-#### BuiltbyBo - Playground Project
+#### Built by Bo - Playground Project
 
 # Get To Know Me Challenge
 
