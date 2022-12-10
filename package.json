@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "dev-challenge-server": "git+https://github.com/builtbybo/dev-challenge-server.git#v1.1.0",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "keywords": [],
